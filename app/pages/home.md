@@ -36,7 +36,7 @@ Finally, we want to know the type and position of each chess piece represented i
 
 This is a typical text recognition problem that can potentially be solved by OCR. However, Tesseract proved to be weak against single characters that can be shown in an inverse position. For this reason we opted to use a Convolutional Neural Network (CNN) model using TensorFlow. The CNN model is trained on manually labelled data generated from previous steps of this project.
 
-At last, we obtain the board position we wanted.
+At last, we obtain the board position as required.
 
 <img src="/static/images/1-output.jpg" style="max-width:300px;" />
 
