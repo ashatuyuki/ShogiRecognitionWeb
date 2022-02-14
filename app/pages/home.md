@@ -1,4 +1,4 @@
-## Shogi diagram converter
+## Shogi Diagram Converter
 Last updated: 14/02/2022
 
 This page describes Shogi Diagram Converter, an image recognition program written in Python. 
