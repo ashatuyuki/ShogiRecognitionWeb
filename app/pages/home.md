@@ -25,7 +25,7 @@ Overly distorted images may not be correctly handled by our machine learning mod
 
 <img src="/static/images/grid_point_example.gif" style="max-width:300px;" />
 
-Acquiring grid points also means that we now know the coordinates of the board. This allows us to perform perspective transformation on each individual square. We then combine all 81 squares to create the corrected image. This step also standardises the size of the chess board to 504x504.
+Acquiring grid points also means that we now know coordinates of the board. This allows us to perform perspective transformation on each individual square. We then combine all 81 squares to create the corrected image. This step also standardises the size of the chess board to 504x504.
 
 <img src="/static/images/1-img_diagram.jpg" style="max-width:300px;" />
 
