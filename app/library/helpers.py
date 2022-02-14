@@ -8,8 +8,6 @@ def openfile(filename):
         md_content = opened_file.read()
 
     md_html = markdown.markdown(md_content)
-    data = {
-        "text": md_html
-    }
+    data = {"text": md_html}
 
     return data

@@ -1,5 +1,3 @@
-import pytest
-from starlette.responses import HTMLResponse
 from starlette.testclient import TestClient
 
 from app.main import app
